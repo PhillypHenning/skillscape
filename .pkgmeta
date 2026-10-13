@@ -1,0 +1,8 @@
+package-as: SkillScape
+
+move-folders:
+  SkillScape/SkillScape: SkillScape
+
+ignore:
+  - README.md
+  - LICENSE

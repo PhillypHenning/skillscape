@@ -1,0 +1,12 @@
+## Interface: 120105
+## Title: SkillScape
+## Notes: RuneScape-style level-up jingles and messages for profession skill-ups.
+## Author: Phil Henning
+## Version: @project-version@
+## SavedVariables: SkillScapeDB
+
+# Interface number is a guess for WoW Forever / Mainline 12.1.5. Confirm in game with
+# /dump select(4, GetBuildInfo()). For other clients, list several, e.g. "## Interface: 120105, 11507".
+
+SkillScape.lua
+Popup.lua
